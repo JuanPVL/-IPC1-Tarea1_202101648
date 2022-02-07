@@ -1,0 +1,23 @@
+body {background:url(fondo.jpg);background-position:center 30%;background-size: 1500px 800px;background-repeat:no-repeat;}
+Header{ text-shadow:gray 10px 10px 20px; text-align: center;}
+img{width:150px;}
+table:hover{color:orange;}
+nav{background:#0566FB;}
+	a{text-shadow: black 3px 3px 8px; font-size:20px; text-decoration:none;color:white;
+	padding:10px 20px;margin:10px 10px;display:inline-block;}
+	a:link{color:white;}
+	a:hover{color:black;}
+	a:active{Color:blue;}
+	a:visited{color:red;}
+h1{Color:Darkblue; font-size:50px; font-family:broadway;
+text-shadow:gray 10px 10px 20px; text-transform: uppercase;}
+h2{Color:Black; font-size:30px; font-family:impact;}
+h3{Color:blue; font-size:20px;}
+	p{color:white; font-size:20px; text-align:center;}
+section{width:75%;}
+footer{background:black;color:yellow;font-size:25px;
+box-shadow:yellow 5px 5px 10px; text-align:center;}
+aside{position:fixed;width:25%;top:150px;bottom:0;right:0;left:75%;}
+aside img:hover{filter:grayscale(100%);}
+
+
